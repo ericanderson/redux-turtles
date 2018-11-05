@@ -1,0 +1,21 @@
+{
+  "name": "redux-turtles",
+  "version": "0.2.0",
+  "esnext": "dist/es6/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "copy-machine": "^0.2.2",
+    "jest": "^23.6.0",
+    "redux": "^4.0.1",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.6"
+    
+  },
+  "peerDependencies": {
+    "redux": "*"
+  }
+}
